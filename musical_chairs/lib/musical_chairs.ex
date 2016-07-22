@@ -1,0 +1,2 @@
+defmodule MusicalChairs do
+end
